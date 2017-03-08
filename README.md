@@ -1,1 +1,3 @@
-code of cnn in tensorflow
+Code of  cnn in tensorflow.
+
+python train.py to run the model.
